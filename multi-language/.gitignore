@@ -1,0 +1,8 @@
+*.js
+*.exe
+**bin/
+**obj/
+**node_modules/
+**/__pycache__/
+**/.pytest_cache
+**/package-lock.json
